@@ -1,0 +1,15 @@
+---
+mas_email: ""
+mas_password: ""
+mas_installed_app_ids: [] # Deprecated
+mas_installed_apps:
+  - { id: 425264550, name: "Blackmagic Disk Speed Test (3.0)" }
+  - { id: 411643860, name: "DaisyDisk (4.3.2)" }
+  - { id: 498486288, name: "Quick Resizer (1.9)" }
+  - { id: 1450640351, name: "Lightweight PDF (1.0.4)" }
+  - { id: 1451685025, name: "WireGuard (0.0.20191105)" }
+  - { id: 880001334, name: "Reeder (3.2.3)" }
+  - { id: 1014850245, name: "Monit (2.0.1)" }
+
+mas_upgrade_all_apps: false
+mas_signin_dialog: false
